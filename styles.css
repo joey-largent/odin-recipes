@@ -20,11 +20,11 @@ hr {
 }
 
 .hr-main {
-    margin: 2rem 10rem 2.5rem;
+    margin: 2rem 10rem 1.5rem;
 }
 
 .hr-recipe {
-    margin: 2rem 10rem 1rem;
+    margin: 1.5rem 10rem 1rem;
 }
 
 .navbar {
@@ -43,7 +43,7 @@ a:link {
     text-decoration: none;
 }
 
-.nav-text:hover {
+.nav-text:hover, a:hover {
     background-color: purple;
 }
 
