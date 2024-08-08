@@ -49,3 +49,8 @@ img {
     max-height: 500px;
     object-fit: fill;
 }
+
+p {
+    text-align: center;
+    margin: 1rem;
+}
