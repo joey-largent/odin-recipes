@@ -17,6 +17,8 @@ h1 {
 
 hr {
     border: 0.5px solid black;
+    margin: 1.5rem 10rem 1rem;
+
 }
 
 .hr-main {
@@ -41,6 +43,10 @@ hr {
 a:link {
     color: peru;
     text-decoration: none;
+}
+
+a:visited {
+    color: maroon;
 }
 
 .nav-text:hover, a:hover {
