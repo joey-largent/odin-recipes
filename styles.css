@@ -1,0 +1,30 @@
+html {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: chocolate;
+    letter-spacing: 1px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: Georgia, serif;
+}
+
+.nav-text {
+    color:darkgoldenrod;
+}
+
+a:link {
+    color: peru;
+    text-decoration: none;
+}
+
+.nav-text:hover {
+    background-color: purple;
+}
