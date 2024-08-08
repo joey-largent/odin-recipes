@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    padding: 2rem;
     background-color: bisque;
 }
 
@@ -15,8 +16,15 @@ h1 {
 }
 
 hr {
-    margin: 2rem 10rem 2.5rem;
     border: 0.5px solid black;
+}
+
+.hr-main {
+    margin: 2rem 10rem 2.5rem;
+}
+
+.hr-recipe {
+    margin: 2rem 10rem 1rem;
 }
 
 .navbar {
